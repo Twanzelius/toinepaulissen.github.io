@@ -1,0 +1,13 @@
+---
+title: "Introducing the RefCFRI: A continuous indicator comparing referendum campaign finance regulation in 143 countries"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-refcfri
+excerpt: 'This paper introduces the RefCFRI, a continuous indicator for the level of referendum campaign finance regulation in 143 countries based on multiple correspondence analysis'
+date: 2024-12-21
+venue: 'Politics'
+paperurl: 'https://twanzelius.github.io/files/refcfri.pdf'
+citation: 'Paulissen, T., & Horncastle, W. (2024). &quot;Introducing the RefCFRI: A continuous indicator comparing referendum campaign finance regulation in 143 countries.&quot; <i>Politics</i>. OnlineFirst.'
+---
+
+As referendums become an increasingly defining feature of global democratic practice, a normative debate centres around the importance of campaign finance regulations in ensuring fair and democratic procedures that avoid biasing their outcome. Understanding how different countries approach this issue can shed light on the impact of varied regulatory approaches, as well as whether they reach their intended policy goals. Scholarly work has therefore attempted to capture this cross-national variation in comparative measures, and this study attempts to build on these efforts by expanding their scope and depth to provide a global, inclusive and methodologically robust comparative measure of referendum political finance regimes. As such, it focuses on the design and compilation of the Referendum Campaign Finance Regulation Index (RefCFRI). We depart from a novel dataset detailing the presence/absence of 39 referendum campaign finance regulations in 143 countries as of April 2024. Using multiple correspondence analysis (MCA), we deliver empirical evidence for the existence of a singular dimension along which countries can be compared, namely the ‘level of regulation’. This dimension forms the RefCFRI, a continuous indicator that, together with our dataset, has the potential to contribute to political finance and referendum studies, as well as informed decision-making by policy-makers.
