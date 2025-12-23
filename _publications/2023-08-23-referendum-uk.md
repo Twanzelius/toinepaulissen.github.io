@@ -2,8 +2,8 @@
 title: "Referendum campaign financing by political parties: the case of the United Kingdom"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-referendum-uk
-excerpt: 'The literature on the political finance of referendum campaigns has focussed primarily on how these are regulated in individual countries, but scholarly work is yet to empirically explore how these regulations and other factors translate into concrete spending practices of political parties. This article attempts to do this for the United Kingdom (UK), which has one of the oldest and most extensive referendum political finance regimes, with the Political Parties, Elections and Referendums Act (PPERA). After formulating several hypotheses grounded in party behaviour and political finance literature, we offer a close examination of the PPERA’s regulations on referendum campaign finance and compare the expenditure patterns of UK political parties in five post-PPERA referendums. The findings suggest that the competitiveness of a referendum, as well as a party’s financial resources and the salience of the referendum topic for the party are possible explanations for their financial engagement in the referendum campaign. More surprisingly, our results show that expenditure limits imposed by the PPERA barely have an effect on party expenditure. Parties rarely come close to the limits imposed, but when they do bump up against the limit, they are able to circumvent this via donations, which do not count towards their spending cap.'
+permalink: /publication/2023-08-23-referendum-uk
+excerpt: '<i>This publication looks into the spending of political parties in UK referendum campaigns and the factors that influence this behavior.</i>'
 date: 2023-08-23
 venue: 'Political Science'
 paperurl: 'https://toinepaulissen.com/files/ReferendumcampaignFinancingUK.pdf'
